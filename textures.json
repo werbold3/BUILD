@@ -1,0 +1,5 @@
+[
+  { "name": "A", "bottomTexture": 130, "windowTexture": 118, "topTexture": 0, "roofTexture": 37, "gableTexture": 1109 },
+  { "name": "B", "bottomTexture": 148, "windowTexture": 118, "topTexture": 0, "roofTexture": 37, "gableTexture": 1118 },
+  { "name": "C", "bottomTexture": 147, "windowTexture": 118, "topTexture": 0, "roofTexture": 35, "gableTexture": 1093 }
+]
